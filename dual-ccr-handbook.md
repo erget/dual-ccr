@@ -1,5 +1,12 @@
 # COBRA divers dual closed-circuit rebreather (CCR) diving manual
 
+This handbook describes procedures developed within the COBRA divers team.
+It was drafted by [Dr. Daniel Lee](https://www.instagram.com/erget2005/) (erget2005@gmail.com) with valuable review and insights from [Adrian de Salazar](https://www.instagram.com/adriandesalazar/) (adrian.reuter@gmx.de).
+The techniques described here work for us; they may not work for you, so think carefully before using them.
+If you see a way to do things better, we'd love to hear from you.
+Get in touch if you have ideas or questions you'd like to discuss.
+
+
 ## Introduction
 
 This manual describes how to dive using two closed circuit rebreathers (CCR).
