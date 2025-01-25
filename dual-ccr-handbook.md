@@ -19,7 +19,7 @@ This manual assumes that you are a trimix diver on both CCRs that you will be di
 It is a prerequisite that you can solve all problems related to a single-CCR failure on each unit; the focus here is not on the individual CCRs, but on safely using both of them together and switching between them.
 
 
-## Part 1: Dual CCR diving in theory
+## Dual CCR diving in theory
 
 
 ### Why would you do that?
