@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/921892742.svg)](https://doi.org/10.5281/zenodo.14736338)
 
+<img src="cobra-divers-logo.png" width=30%>
+
 This handbook describes procedures developed within the COBRA divers team.
 It was drafted by [Dr. Daniel Lee](https://www.instagram.com/erget2005/) (erget2005@gmail.com) with valuable review and insights from [Adrian de Salazar](https://www.instagram.com/adriandesalazar/) (adrian.reuter@gmx.de).
 The techniques described here work for us; they may not work for you, so think carefully before using them.
